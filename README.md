@@ -30,7 +30,3 @@ Your encryption password cannot be changed or recovered. If you forget it, all e
 ## Data location
 
 All encrypted data is stored in `~/.passcli/`
-
-## License
-
-MIT
